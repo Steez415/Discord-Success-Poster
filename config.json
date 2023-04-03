@@ -1,19 +1,19 @@
 {
   "twitterData": {
-    "consumer_key": "",
-    "consumer_secret": "",
-    "access_token": "",
-    "access_token_secret": ""
+    "consumer_key": "nOaaD2HUUDfOjhYoj5PAX5WSz",
+    "consumer_secret": "B3NW874RQdqKOUAcVgydrFlWvwXZZZKKzwBqU1EZmcIAZQzWiS",
+    "access_token": "1580760579362287617-de1gIZSrl3XYYB1xFdY6bO1BX2W0e5",
+    "access_token_secret": "IA2OUfmLfmk4XCjyBq9gI0L6s0tmqHelfyMRGhVqNlWPT"
   },
   "discordData": {
-    "token": "",
-    "successChannelID": "",
+    "token": "NzkzNjU4OTAzNzI4MzU3NDM2.GzjWvW.qHLCgDSuujG4JUSfzYp7Qms0Pq8cJ0R9knxJaM",
+    "successChannelID": "1092243112761499800",
     "canDeleteSuccess": "ADMINISTRATOR",
     "canResetLeaderboard": "ADMINISTRATOR"
   },
   "groupInfo": {
-    "name": "Tweet Catcher",
-    "imageUrl": "https://i.imgur.com/FREJD5o.png",
+    "name": "Chef City Success",
+    "imageUrl": "https://i.imgur.com/wcskPoo.png",
     "twitterId": "1243928606998499328",
     "twitterHandle": "TweetCatcherBot"
   }
